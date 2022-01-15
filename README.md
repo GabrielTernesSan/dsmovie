@@ -4,19 +4,19 @@ Este projeto foi desenvolvido durante o evento Semana Spring React foram 3 aulas
 
 ## Tecnologias utilizadas
 
-![Java](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">)
+![Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />)
 
-![JavaScript](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">)
+![JavaScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />)
 
-![Typescript](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">)
+![Typescript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />)
 
-![Postgresql](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">)
+![Postgresql](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />)
 
-![Github](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">)
+![Github](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />)
 
-![Heroku](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">)
+![Heroku](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />)
 
-![](<link rel="stylesheet" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">)
+![](<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg/>)
 
 ## Site da Aplicação
 
