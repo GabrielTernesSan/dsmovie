@@ -20,6 +20,5 @@
     <h2>
         Site da Aplicação
     </h2>
-    <a src="https://dsmoviets.netlify.app/">DSMovie</a>
+    <a href="https://dsmoviets.netlify.app/">DSMovie</a>
 </div>
-
